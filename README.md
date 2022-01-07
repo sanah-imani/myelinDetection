@@ -4,6 +4,9 @@ The overall goal of this project is to build a framework to automate/semi-automa
 
 This could then play a role in discriminating between myelin distribution in inhibitory and excitatory neurons and perhaps even explaining electrophysiological properties of certain neural cells of interest.
 
+![image](https://user-images.githubusercontent.com/29833463/148520840-26d62c41-a353-47c2-8533-dabe54189db9.png)
+
+
 <h> Algorithm Outline </h>
 <ol>
   <li> Run a connected components analysis on the segmentation. </li>
