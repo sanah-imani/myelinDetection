@@ -13,3 +13,5 @@ This could then play a role in discriminating between myelin distribution in inh
   <li> A KD-tree structure is utilized to find the shortest distance between the points on the border mask and the selected connected component. </li>
   <li> Finally, we  find the voxels that are within the threshold distance (calculated in step 4) and generate a mask to isolate the indices that belong to the estimated myelin positions. </li>
  </ol>
+
+For more details: https://docs.google.com/presentation/d/1fBVNDw5o_EvZNgeu1wixCFIT2e9HnkALxQIK7ZGrwXY/edit?usp=sharing
